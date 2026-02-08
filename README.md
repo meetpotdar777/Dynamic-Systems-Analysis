@@ -72,9 +72,7 @@ The system is governed by the second-order differential equation:
 
 $$m\ddot{x} + c\dot{x} + kx = F(t)$$
 
-<p align="center">
-<img src="diagram.png" width="600" title="Mass-Spring-Damper System Diagram">
-</p>
+<p align="center"> <img src="Model.png" width="400" title="Quarter-Car Mass-Spring-Damper Model"> </p>
 
 Converted to the $s$-domain, the transfer function $H(s)$ is:
 
