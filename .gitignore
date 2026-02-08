@@ -1,16 +1,31 @@
-# LaTeX temporary files
+# --- LaTeX ---
 *.aux
+*.bbl
+*.blg
 *.log
 *.out
 *.toc
+*.lof
+*.lot
 *.synctex.gz
+*.pdf
 *.fdb_latexmk
 *.fls
-*.pdf
+*.run.xml
+*.bcf
 
-# Bibliography files
-*.blg
-*.bbl
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+.pytest_cache/
 
-# VS Code settings
+# --- OS & IDE ---
+.DS_Store
 .vscode/
+.idea/
+*.swp
