@@ -1,4 +1,4 @@
-# 🏎️ Dynamic Systems Analysis
+# 🏎️ Dynamic Systems Analysis 🏎️
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![LaTeX](https://img.shields.io/badge/typeset-LaTeX-green.svg)
