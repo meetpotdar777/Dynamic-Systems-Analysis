@@ -1,0 +1,16 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdf
+
+# Bibliography files
+*.blg
+*.bbl
+
+# VS Code settings
+.vscode/
